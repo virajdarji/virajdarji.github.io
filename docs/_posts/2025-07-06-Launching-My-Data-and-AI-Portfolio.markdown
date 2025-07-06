@@ -54,3 +54,13 @@ This simple partition prune cut our query cost by **70%** on a 50 M‑record t
 * **GitHub**: [github.com/virajdarji](https://github.com/virajdarji)
 
 Thanks for stopping by — excited to share, learn, and grow together. 😊
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SKGL727DK0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SKGL727DK0');
+</script>
