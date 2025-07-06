@@ -36,12 +36,12 @@ Outside of work you’ll find me in the gym, out on a trek, or practicing medita
 
 ## 🛠️ Skills Snapshot
 
-**Cloud & Infra:** AWS (S3, Glue, Redshift, EMR), GCP BigQuery, Snowflake, Terraform
-**Data Engineering:** ETL, Data Warehousing, Data Modeling, Orchestration (Airflow/Composer)
-**ML & LLM:** Regression, Clustering, Generative AI, LLM Ops (LangChain, Vertex AI)
-**Visualization:** Power BI, Tableau
-**Languages:** Python, SQL, Shell
-**Methodologies:** Agile Scrum, CI/CD, DevOps, TDD
+**Cloud & Infra:** AWS (S3, Glue, Redshift, EMR), GCP BigQuery, Snowflake, Terraform  
+**Data Engineering:** ETL, Data Warehousing, Data Modeling, Orchestration (Airflow/Composer)  
+**ML & LLM:** Regression, Clustering, Generative AI, LLM Ops (LangChain, Vertex AI)  
+**Visualization:** Power BI, Tableau  
+**Languages:** Python, SQL, Shell  
+**Methodologies:** Agile Scrum, CI/CD, DevOps, TDD  
 
 ---
 
