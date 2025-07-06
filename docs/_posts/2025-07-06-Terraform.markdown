@@ -21,3 +21,12 @@ During a proof-of-concept project, our team tackled a major pain point: unifying
 
 Stay tuned for reusable Terraform modules and governance design patterns.
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SKGL727DK0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SKGL727DK0');
+</script>
