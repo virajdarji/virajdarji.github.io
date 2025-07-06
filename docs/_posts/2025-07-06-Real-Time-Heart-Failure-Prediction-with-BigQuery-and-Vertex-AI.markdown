@@ -22,3 +22,12 @@ This system helped doctors reduce manual assessment time by 60% and impacted 5�
 
 ➡️ In the next post, I’ll dive into our feature engineering strategies and how we optimized them using BigQuery SQL functions.
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SKGL727DK0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SKGL727DK0');
+</script>
