@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌐 Terraform + Lake Formation for Multi-Cloud Data Access"
-date: 2025-07-09 00:00:00 -0400
+date: 2025-07-06 00:00:00 -0400
 categories: terraform aws data-governance
 ---
 
