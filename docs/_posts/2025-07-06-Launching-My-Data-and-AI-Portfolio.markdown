@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🚀 Launching My Data & AI Portfolio"
+title: "🚀 Launching My Data and AI Portfolio"
 date: 2025-07-06 00:00:00 -0400
 categories: announcement
 ---
