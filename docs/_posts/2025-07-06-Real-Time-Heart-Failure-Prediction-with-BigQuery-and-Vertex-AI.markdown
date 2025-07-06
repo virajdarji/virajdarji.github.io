@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🏥 Real-Time Heart Failure Prediction with BigQuery and Vertex AI"
-date: 2025-07-07 00:00:00 -0400
+date: 2025-07-06 00:00:00 -0400
 categories: machine-learning healthcare
 ---
 
