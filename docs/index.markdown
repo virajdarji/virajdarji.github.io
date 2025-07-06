@@ -4,11 +4,11 @@ layout: home
 title: 'Viraj Nishesh Darji'
 subtitle: 'Data Engineer · ML & Generative AI Developer · Cloud‑Native Architect'
 description: 'Portfolio of Viraj Darji — turning data into insights'
---------------------------------------------------------------------
+--
 
 > Building reliable data & AI platforms that transform raw information into real‑time insights.
 
-[Download Résumé](assets/Viraj_Darji_Resume.pdf){: .btn .btn--primary}
+[Download Résumé](assets/Viraj_Resume_DE_V1.pdf){: .btn .btn--primary}
 
 ---
 
