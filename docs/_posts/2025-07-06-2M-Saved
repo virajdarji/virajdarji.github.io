@@ -1,0 +1,22 @@
+---
+layout: post
+title: "🏗️ $2M Saved with AWS Data Warehouse for Fortune 100 Insurance Client"
+date: 2025-07-10 00:00:00 -0400
+categories: aws etl analytics
+---
+
+Migrating legacy insurance data systems to AWS was no small feat — but our 7-member team delivered an enterprise-grade data warehouse **1 month ahead of schedule** and saved the client **$2M/year**.
+
+### 📦 Scope
+- Claims data model design using Erwin  
+- ETL pipelines using Informatica Cloud (IICS)  
+- Complex SQL logic for feature extraction  
+- Dashboards built with Power BI
+
+### 📊 Outcome
+- Improved claims analysis accuracy by 99%  
+- Increased pipeline performance by 70%  
+- Enabled targeted regional interventions, boosting sales by 25%
+
+Check out my follow-up post where I break down how we structured the claims model and handled QA testing in agile sprints.
+
