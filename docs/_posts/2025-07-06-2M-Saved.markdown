@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🏗️ $2M Saved with AWS Data Warehouse for Fortune 100 Insurance Client"
-date: 2025-07-10 00:00:00 -0400
+date: 2025-07-06 00:00:00 -0400
 categories: aws etl analytics
 ---
 
