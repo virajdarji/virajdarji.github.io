@@ -58,3 +58,14 @@ Outside of work you’ll find me in the gym, out on a trek, or practicing medita
 * LinkedIn: [linkedin.com/in/viraj-darji](https://linkedin.com/in/viraj-darji)
 
 I’m always excited to discuss data challenges, AI ideas, or collaborative projects—feel free to reach out! 🚀
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SKGL727DK0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SKGL727DK0');
+</script>
