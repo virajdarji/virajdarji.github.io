@@ -20,3 +20,12 @@ Migrating legacy insurance data systems to AWS was no small feat — but our 7-m
 
 Check out my follow-up post where I break down how we structured the claims model and handled QA testing in agile sprints.
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SKGL727DK0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SKGL727DK0');
+</script>
