@@ -1,20 +1,60 @@
 ---
-layout: page
-title: About
-permalink: /about/
+
+layout: home
+title: 'Viraj Nishesh Darji'
+subtitle: 'Data Engineer · ML & Generative AI Developer · Cloud‑Native Architect'
+description: 'Portfolio of Viraj Darji — turning data into insights'
 ---
-Master's in hand, I'm a Data Analyst Engineer who turns complex data into insights with ease. My background in Electronics & Telecommunication Engineering makes me a problem-solving whiz.
 
-I don't just speak data, I make it sing with NLP! At Accure, I built a user-friendly data visualization system powered by cutting-edge Generative AI.
+> Building reliable data & AI platforms that transform raw information into real‑time insights.
 
-But wait, there's more!  As a Senior Data Engineer, I optimized pipelines and warehouses (think 70% faster!), unlocking data's true potential.
+[Download Résumé](assets/Viraj_Resume_DE_V1.pdf){: .btn .btn--primary}
 
-  (Quantiphi Analytics can vouch for that!)
+---
 
-Beyond the industry grind, I teamed up with astrophysicists to develop automated workflows, slashing exoplanet data analysis time by 50%. 🪐  Yep, I bridge the gap between data and real-world impact.
+## 👋 About Me
 
-Cloud platforms? Warehousing? Visualization? I speak all the languages. (AWS, GCP, Redshift, BigQuery, ETL tools, Tableau, Power BI - you name it!)
+I’m **Viraj**, a cloud‑native data engineer and machine‑learning practitioner with **5+ years** of experience architecting end‑to‑end data & AI solutions across **AWS, GCP, and Snowflake**. My work accelerates decision‑making for Fortune‑100 companies and healthcare providers by delivering production‑grade pipelines, MLOps, and Generative AI applications.
 
-Plus, I'm a passionate knowledge sharer (Graduate Teaching Assistant, anyone?).
+• **Current:** Senior Associate Data Engineer @ **Egen**, building heart‑failure prediction and multi‑cloud data access platforms.
 
-Looking for an NLP whiz, data automation guru, or a well-rounded data rockstar? Look no further!
+• **Previously:** Generative AI Developer @ **Accure** (natural‑language‑to‑viz assistant), Senior Data Engineer @ **Quantiphi** (enterprise data warehouses, \$2M cost savings).
+
+Outside of work you’ll find me in the gym, out on a trek, or practicing meditation.
+
+---
+
+## 🚀 Featured Projects
+
+| Project                               | Tech Highlights                                        | Impact                                                         |
+| ------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------- |
+| **Heart Failure Prediction Platform** | AWS, Vertex AI, BigQuery, Cloud Composer               | Real‑time risk scores for 50M+ patient records; 40% faster ETL |
+| **Unified Data Access POC**           | Terraform, Lake Formation, SageMaker Studio, Snowflake | 30% faster cross‑platform queries; \$75K new business          |
+| **NL → Visualization Assistant**      | Mistral LLM, LangChain, Code Llama                     | 76% accurate dashboards in <30 s; removed analyst hand‑off     |
+
+---
+
+## 🛠️ Skills Snapshot
+
+**Cloud & Infra:** AWS (S3, Glue, Redshift, EMR), GCP BigQuery, Snowflake, Terraform
+**Data Engineering:** ETL, Data Warehousing, Data Modeling, Orchestration (Airflow/Composer)
+**ML & LLM:** Regression, Clustering, Generative AI, LLM Ops (LangChain, Vertex AI)
+**Visualization:** Power BI, Tableau
+**Languages:** Python, SQL, Shell
+**Methodologies:** Agile Scrum, CI/CD, DevOps, TDD
+
+---
+
+## 📚 Publications & Writing
+
+* *Automated Interpretation of Non‑Destructive Evaluation Contour Maps Using Large Language Models for Bridge Condition Assessment* — IEEE, 2024. [Read paper](https://ieeexplore.ieee.org/abstract/document/10825532)
+
+---
+
+## 📬 Get in Touch
+
+* Email: [virajdarji@gmail.com](mailto:virajdarji@gmail.com)
+* GitHub: [github.com/virajdarji](https://github.com/virajdarji)
+* LinkedIn: [linkedin.com/in/viraj-darji](https://linkedin.com/in/viraj-darji)
+
+I’m always excited to discuss data challenges, AI ideas, or collaborative projects—feel free to reach out! 🚀
