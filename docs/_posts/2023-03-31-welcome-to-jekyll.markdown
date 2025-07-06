@@ -1,29 +1,56 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-03-31 16:36:53 -0400
-categories: jekyll update
+title: "🚀 Launching My Data & AI Portfolio"
+date: 2025-07-06 00:00:00 -0400
+categories: announcement
+------------------------
+
+Hey there — I’m **Viraj Darji**, a cloud‑native data engineer and ML enthusiast. After years of building data platforms for Fortune‑100 clients and experimenting with Generative AI, I’ve finally decided to put my work in one place.
+
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+## Why This Portfolio?
 
-`YEAR-MONTH-DAY-title.MARKUP`
+I wanted a **single hub** where recruiters, collaborators, and fellow tech‑nerds can:
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+1. **Explore real‑world projects** — from heart‑failure prediction pipelines on AWS + BigQuery to a LangChain‑powered NL‑to‑Viz assistant.
+2. **Read deep‑dives** on topics I’m passionate about: data architecture, LLM Ops, Terraform best practices, and performance tuning.
+3. **Follow my learning journey** as I experiment with new frameworks (looking at you, Iceberg ❄️) and share lessons learned.
 
-Jekyll also offers powerful support for code snippets:
+---
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+## What to Expect
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+* **Project Walk‑throughs**: Step‑by‑step explanations of architecture, trade‑offs, and impact.
+* **Code Snippets & Tutorials**: Hands‑on guides in Python, SQL, and Terraform.
+* **Opinion Pieces**: My take on the evolving landscape of data engineering and AI.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+> I believe in knowledge‑sharing and practical problem‑solving — this blog will focus on actionable insights you can apply immediately.
+
+---
+
+## Quick Preview: A Tasty BigQuery Optimization Trick
+
+```sql
+-- Reduce cost & runtime by filtering early using clustered columns
+SELECT
+  patient_id,
+  predicted_risk
+FROM
+  `heart.failure_predictions`
+WHERE
+  _PARTITIONDATE BETWEEN '2025-07-01' AND '2025-07-05'
+  AND predicted_risk > 0.8;
+```
+
+This simple partition prune cut our query cost by **70%** on a 50 M‑record table. Stay tuned for a full breakdown in an upcoming post.
+
+---
+
+## Connect with Me
+
+* **Résumé**: [Download PDF](../assets/Viraj_Darji_Resume.pdf)
+* **LinkedIn**: [linkedin.com/in/viraj-darji](https://linkedin.com/in/viraj-darji)
+* **GitHub**: [github.com/virajdarji](https://github.com/virajdarji)
+
+Thanks for stopping by — excited to share, learn, and grow together. 😊
