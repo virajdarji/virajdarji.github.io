@@ -3,7 +3,7 @@ layout: post
 title: "🚀 Launching My Data & AI Portfolio"
 date: 2025-07-06 00:00:00 -0400
 categories: announcement
-------------------------
+---
 
 Hey there — I’m **Viraj Darji**, a cloud‑native data engineer and ML enthusiast. After years of building data platforms for Fortune‑100 clients and experimenting with Generative AI, I’ve finally decided to put my work in one place.
 
@@ -49,7 +49,7 @@ This simple partition prune cut our query cost by **70%** on a 50 M‑record t
 
 ## Connect with Me
 
-* **Résumé**: [Download PDF](../assets/Viraj_Darji_Resume.pdf)
+* **Résumé**: [Download PDF](../assets/Viraj_Resume_DE_V1.pdf)
 * **LinkedIn**: [linkedin.com/in/viraj-darji](https://linkedin.com/in/viraj-darji)
 * **GitHub**: [github.com/virajdarji](https://github.com/virajdarji)
 
