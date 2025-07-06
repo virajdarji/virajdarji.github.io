@@ -1,7 +1,7 @@
 ---
 
 layout: home
-title: 'Viraj Nishesh Darji'
+title: 'About Me'
 subtitle: 'Data Engineer · ML & Generative AI Developer · Cloud‑Native Architect'
 description: 'Portfolio of Viraj Darji — turning data into insights'
 ---
