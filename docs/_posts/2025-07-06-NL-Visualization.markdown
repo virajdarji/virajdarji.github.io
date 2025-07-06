@@ -23,3 +23,12 @@ Allow users to query and visualize structured data using natural language, witho
 
 In a future post, I’ll share prompt engineering techniques and how we evaluated performance using syntactic and semantic correctness.
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SKGL727DK0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SKGL727DK0');
+</script>
