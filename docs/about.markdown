@@ -18,7 +18,7 @@ I’m **Viraj**, a cloud‑native data engineer and machine‑learning practitio
 
 • **Current:** Senior Associate Data Engineer @ **Egen**, building heart‑failure prediction and multi‑cloud data access platforms.
 
-• **Previously:** Generative AI Developer @ **Accure** (natural‑language‑to‑viz assistant), Senior Data Engineer @ **Quantiphi** (enterprise data warehouses, \$2M cost savings).
+• **Previously:** Senior Data Engineer @ **Quantiphi** (enterprise data warehouses, \$2M cost savings).
 
 Outside of work you’ll find me in the gym, out on a trek, or practicing meditation.
 
