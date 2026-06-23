@@ -2,13 +2,11 @@
 
 layout: home
 title: 'About Me'
-subtitle: 'Data Engineer · ML & Generative AI Developer · Cloud‑Native Architect'
+subtitle: 'Engineer'
 description: 'Portfolio of Viraj Darji — turning data into insights'
 ---
 
 > Building reliable data & AI platforms that transform raw information into real‑time insights.
-
-[Download Résumé](assets/Viraj_Resume_DE_V1.pdf){: .btn .btn--primary}
 
 ---
 
@@ -16,7 +14,7 @@ description: 'Portfolio of Viraj Darji — turning data into insights'
 
 I’m **Viraj**, a cloud‑native data engineer and machine‑learning practitioner with **5+ years** of experience architecting end‑to‑end data & AI solutions across **AWS, GCP, and Snowflake**. My work accelerates decision‑making for Fortune‑100 companies and healthcare providers by delivering production‑grade pipelines, MLOps, and Generative AI applications.
 
-• **Current:** Senior Associate Data Engineer @ **Egen**, building heart‑failure prediction and multi‑cloud data access platforms.
+• **Current:** Engineer II @ **Egen**, building heart‑failure prediction and multi‑cloud data access platforms.
 
 • **Previously:** Senior Data Engineer @ **Quantiphi** (enterprise data warehouses, \$2M cost savings).
 
