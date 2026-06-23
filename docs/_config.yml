@@ -21,8 +21,8 @@
 title: Viraj Nishesh Darji
 email: virajdarji@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"description: >-
-  Portfolio of Viraj Nishesh Darji — cloud‑native Data Engineer and Generative AI
-  developer. Showcasing projects, tutorials, and insights on building scalable
+  Portfolio of Viraj Nishesh Darji — cloud‑native Engineer developer. 
+  Showcasing projects, tutorials, and insights on building scalable
   data & ML platforms across AWS, GCP, and Snowflake.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://virajdarji.github.io" # the base hostname & protocol for your site, e.g. http://example.com
